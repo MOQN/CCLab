@@ -1,0 +1,50 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h3 {
+  color: aqua;
+  font-size: 15px;
+}
+p {
+  font-size: 9px;
+}
+
+ul {
+  font-size: 9px;
+}
+
+.title {
+  color: hotpink;
+}
+
+#special-heading {
+  background-color: yellow;
+}
+
+.highlighted-text {
+  background-color: tomato;
+  text-decoration: underline;
+}
+
+a {
+  /*  */
+  text-decoration: none;
+}
+
+a:hover {
+  /* font-size: 15px; */
+  background-color:cyan;
+}
+
+a:active {
+  color:hotpink;
+}
+
+a:visited {
+  color:gray;
+}
